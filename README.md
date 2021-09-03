@@ -16,3 +16,6 @@ Instagram: [Austin Ginn](https://www.instagram.com/austinleeginn/)
 #### Tally.aginn.tech
 Website: [tally.aginn.tech](https://tally.aginn.tech)
 <br>
+API Node Module: [npm](https://www.npmjs.com/package/tally.aginn.tech-api)
+<br>
+API Examples: [examples](https://github.com/austinginn/tally.aginn.tech-api/tree/main/examples)
