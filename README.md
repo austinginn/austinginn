@@ -18,3 +18,11 @@ Website: [tally.aginn.tech](https://tally.aginn.tech)
 API Node Module: [npm](https://www.npmjs.com/package/tally.aginn.tech-api)
 <br>
 API Examples: [examples](https://github.com/austinginn/tally.aginn.tech-api/tree/main/examples)
+
+##### Tally Relay Electron App (for BMD Switchers): 
+[Source](https://github.com/austinginn/tally-relay-bmd)
+[Releases](https://github.com/austinginn/tally-relay-bmd/releases)
+
+#### AM Events
+Website: [events.afumc.org](https://events.afumc.org)
+
