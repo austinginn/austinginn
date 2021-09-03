@@ -1,11 +1,9 @@
 
-<h1 align="center">Hello, I'm Austin Ginn</h1>
-<p align="center">Director of Technology at Alpharetta Methodist</p>
+<h1 align="center">Hello!</h1>
+<p align="center">My name is Austin Ginn.  I am currently the Director of Technology at Alpharetta Methodist.</p>
 
 ### About
+Website:
+Linkedin:
+Instagram:
 
-<style>
-h1{
-    margin: 0;
-}
-</style>
