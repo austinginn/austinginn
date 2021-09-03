@@ -4,14 +4,13 @@
   
 <p>My IT and software devolpment foundation began in college, c++ being my lanuage of study.  Since then I have found a passion for web devolpment. I am currently working on and maintaining a number of projects, however my main focus lately has revolved around Blackmagic Design ATEM Switchers. My public projects will be listed below.  If you have an idea or workflow you need improved in this area, I would be happy to work with you to see the project through.</p>
 
-### About
 Website: [aginn.tech](https://aginn.tech)
 <br>
 Linkedin: [Austin Ginn](www.linkedin.com/in/austinleeginn)
 <br>
 Instagram: [Austin Ginn](https://www.instagram.com/austinleeginn/)
 
-### Current Projects
+## Current Projects
 
 #### Tally.aginn.tech
 Website: [tally.aginn.tech](https://tally.aginn.tech)
