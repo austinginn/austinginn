@@ -12,6 +12,7 @@ Linkedin: [Austin Ginn](www.linkedin.com/in/austinleeginn)
 Instagram: [Austin Ginn](https://www.instagram.com/austinleeginn/)
 
 ### Current Projects
-#Tally.aginn.tech
+
+#### Tally.aginn.tech
 Website: [tally.aginn.tech](https://tally.aginn.tech)
 <br>
