@@ -1,6 +1,5 @@
 
 <h1 align="center">Hello!</h1>
-<p>If you want to read more about me see the links below.  Thanks stopping by!</p>
 
 Website: [aginn.tech](https://aginn.tech)
 <br>
