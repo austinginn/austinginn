@@ -3,7 +3,7 @@
 
 Website: [aginn.tech](https://aginn.tech)
 <br>
-Linkedin: [Austin Ginn](www.linkedin.com/in/austinleeginn)
+Linkedin: [Austin Ginn](https://www.linkedin.com/in/austinleeginn/)
 <br>
 Instagram: [Austin Ginn](https://www.instagram.com/austinleeginn/)
 
