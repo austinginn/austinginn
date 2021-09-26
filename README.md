@@ -18,6 +18,8 @@ API Examples: [examples](https://github.com/austinginn/tally.aginn.tech-api/tree
 <br>
 Tally Relay Electron App (for BMD Switchers): [Source](https://github.com/austinginn/tally-relay-bmd) | [Releases](https://github.com/austinginn/tally-relay-bmd/releases)
 
-#### AM Events
-Website: [events.afumc.org](https://events.afumc.org)
+#### MP Events
+MP Events: [Source](https://github.com/austinginn/mp-events)
+<br>
+Running Example: [events.afumc.org](https://events.afumc.org)
 
