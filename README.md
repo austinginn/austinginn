@@ -26,7 +26,7 @@ Vue Admin Portal: [portal.votd.io](https://portal.votd.io)
 <br>
 *vue, vuex, vue router*
 <br><br>
-Sign into the portals using:
+*Sign into the portals using:*
 <br>
 *User: guest@votd.io*
 <br>
