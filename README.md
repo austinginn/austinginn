@@ -9,7 +9,7 @@ Instagram: [Austin Ginn](https://www.instagram.com/austinleeginn/)
 
 ## Current Projects
 
-#### Voicing of the Day
+### Voicing of the Day
 UI: [votd.io](https://votd.io)
 <br>
 *vanilla html, css, js*
@@ -31,12 +31,11 @@ Vue Admin Portal: [portal.votd.io](https://portal.votd.io)
 *User: guest@votd.io*
 <br>
 *Password: guest*
-<br>
 
-#### PP7 API Wrapper for node.js
+### PP7 API Wrapper for node.js
 Node-PP7: [Source](https://github.com/austinginn/node-pp7)
 
-#### Tally.aginn.tech
+### Tally.aginn.tech
 Website: [tally.aginn.tech](https://tally.aginn.tech)
 <br>
 API Node Module: [npm](https://www.npmjs.com/package/tally.aginn.tech-api)
@@ -45,7 +44,7 @@ API Examples: [examples](https://github.com/austinginn/tally.aginn.tech-api/tree
 <br>
 Tally Relay Electron App (for BMD Switchers): [Source](https://github.com/austinginn/tally-relay-bmd) | [Releases](https://github.com/austinginn/tally-relay-bmd/releases)
 
-#### MP Events
+### MP Events
 MP Events: [Source](https://github.com/austinginn/mp-events)
 <br>
 Running Example: [events.afumc.org](https://events.afumc.org)
