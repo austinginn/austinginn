@@ -33,6 +33,9 @@ Vue Admin Portal: [portal.votd.io](https://portal.votd.io)
 *Password: guest*
 <br>
 
+#### PP7 API Wrapper for node.js
+Node-PP7: [Source](https://github.com/austinginn/node-pp7)
+
 #### Tally.aginn.tech
 Website: [tally.aginn.tech](https://tally.aginn.tech)
 <br>
