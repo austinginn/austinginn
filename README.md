@@ -10,19 +10,28 @@ Instagram: [Austin Ginn](https://www.instagram.com/austinleeginn/)
 ## Current Projects
 
 #### Voicing of the Day
-UI: [votd](https://votd.io)
+UI: [votd.io](https://votd.io)
 <br>
-Vue UI: [vue votd](https://vue.votd.io)
+*vanilla html, css, js*
+<br><br>
+Vue UI: [vue.votd.io](https://vue.votd.io)
 <br>
-Admin Portal w/ Bootstrap 5: [VOTD](https://admin.votd.io)
+*vue, vuex, vue router*
+<br><br>
+Admin Portal: [admin.votd.io](https://admin.votd.io)
 <br>
-Admin Portal created w/ Vue: [Portal](https://portal.votd.io)
-User: guest@votd.io
-Password: guest
+*html, css, js, bootstrap 5*
+<br><br>
+Vue Admin Portal: [portal.votd.io](https://portal.votd.io)
 <br>
-API Examples: [examples](https://github.com/austinginn/tally.aginn.tech-api/tree/main/examples)
+*vue, vuex, vue router*
+<br><br>
+Sign into the portals using:
 <br>
-Tally Relay Electron App (for BMD Switchers): [Source](https://github.com/austinginn/tally-relay-bmd) | [Releases](https://github.com/austinginn/tally-relay-bmd/releases)
+*User: guest@votd.io*
+<br>
+*Password: guest*
+<br>
 
 #### Tally.aginn.tech
 Website: [tally.aginn.tech](https://tally.aginn.tech)
