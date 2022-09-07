@@ -34,6 +34,8 @@ Vue Admin Portal: [portal.votd.io](https://portal.votd.io)
 
 ### ProPresenter 7 API Wrapper
 Node-PP7: [Source](https://github.com/austinginn/node-pp7)
+<br>
+*node.js, jsdocs*
 
 ### Tally.aginn.tech
 Website: [tally.aginn.tech](https://tally.aginn.tech)
@@ -43,11 +45,15 @@ API Node Module: [npm](https://www.npmjs.com/package/tally.aginn.tech-api)
 API Examples: [examples](https://github.com/austinginn/tally.aginn.tech-api/tree/main/examples)
 <br>
 Tally Relay Electron App (for BMD Switchers): [Source](https://github.com/austinginn/tally-relay-bmd) | [Releases](https://github.com/austinginn/tally-relay-bmd/releases)
+<br>
+*node.js, express.js, socket.io, electron, html5, js, css*
 
 ### MP Events
 MP Events: [Source](https://github.com/austinginn/mp-events)
 <br>
 Running Example: [events.afumc.org](https://events.afumc.org)
+<br>
+*docker, node.js, express.js, html5, js, css*
 
 ## Stack
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
