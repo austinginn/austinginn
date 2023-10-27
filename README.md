@@ -1,10 +1,12 @@
 
 <h1 align="center">Hello!</h1>
+My name is Austin. I specialize in creating custom AVL integration software and utilities. Reach out if you're interested in collaborating.
 
-<br>
-Linkedin: [Austin Ginn](https://www.linkedin.com/in/austinleeginn/)
-<br>
-Instagram: [Austin Ginn](https://www.instagram.com/austinleeginn/)
+Email: [austinleeginn@gmail.com](mailto:austinleeginn@gmail.com)
+
+Linkedin: [Austin Ginn](https://www.linkedin.com/in/austinleeginn)
+
+Instagram: [Austin Ginn](https://www.instagram.com/austinleeginn)
 
 ## Current Projects
 
