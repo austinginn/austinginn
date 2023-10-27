@@ -1,13 +1,17 @@
 
 <h1 align="center">Hello!</h1>
 
-Website: [aginn.tech](https://aginn.tech)
 <br>
 Linkedin: [Austin Ginn](https://www.linkedin.com/in/austinleeginn/)
 <br>
 Instagram: [Austin Ginn](https://www.instagram.com/austinleeginn/)
 
 ## Current Projects
+
+### MIDI to ETC UDP Relay
+Converts MIDI messages to ETC Echotouch MK2 UDP control messages. View [here](https://github.com/austinginn/midi-etc-relay)
+<br>
+*nodejs, pm2*
 
 ### Voicing of the Day
 UI: [votd.io](https://votd.io)
@@ -31,11 +35,6 @@ Vue Admin Portal: [portal.votd.io](https://portal.votd.io)
 *User: guest@votd.io*
 <br>
 *Password: guest*
-
-### ProPresenter 7 API Wrapper
-Node-PP7: [Source](https://github.com/austinginn/node-pp7)
-<br>
-*node.js, jsdocs*
 
 ### Tally.aginn.tech
 Website: [tally.aginn.tech](https://tally.aginn.tech)
