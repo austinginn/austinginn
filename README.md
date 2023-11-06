@@ -21,8 +21,12 @@ Converts MIDI messages to ETC Echotouch MK2 UDP control messages. View [here](ht
 *nodejs, pm2*
 
 ### Blurify
-A web app that can be used to create pleasing blur gradients from an image. Uses the Wolt BlurHash Alogrithm. View [here](https://blur-ad979.web.app/)
+A web app for creating pleasing blur gradients from an image. Uses the Wolt BlurHash Alogrithm. View [here](https://blur-ad979.web.app/)
 <br>
+*Vue 3*
+
+### JS BlurHash Decode Benchmark Tool
+A web app for benchmarking speed difference between the Wolt BlurHash Decode Alogrithm and the Fast BlurHash Decode Algorithm. View [here]()
 *Vue 3*
 
 
