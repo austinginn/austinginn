@@ -15,39 +15,7 @@ Converts MIDI messages to ETC Echotouch MK2 UDP control messages. View [here](ht
 <br>
 *nodejs, pm2*
 
-### Voicing of the Day
-UI: [votd.io](https://votd.io)
-<br>
-*vanilla html, css, js*
-<br><br>
-Vue UI: [vue.votd.io](https://vue.votd.io)
-<br>
-*vue, vuex, vue router*
-<br><br>
-Admin Portal: [admin.votd.io](https://admin.votd.io)
-<br>
-*html, css, js, bootstrap 5*
-<br><br>
-Vue Admin Portal: [portal.votd.io](https://portal.votd.io)
-<br>
-*vue, vuex, vue router*
-<br><br>
-*Sign into the portals using:*
-<br>
-*User: guest@votd.io*
-<br>
-*Password: guest*
 
-### Tally.aginn.tech
-Website: [tally.aginn.tech](https://tally.aginn.tech)
-<br>
-API Node Module: [npm](https://www.npmjs.com/package/tally.aginn.tech-api)
-<br>
-API Examples: [examples](https://github.com/austinginn/tally.aginn.tech-api/tree/main/examples)
-<br>
-Tally Relay Electron App (for BMD Switchers): [Source](https://github.com/austinginn/tally-relay-bmd) | [Releases](https://github.com/austinginn/tally-relay-bmd/releases)
-<br>
-*node.js, express.js, socket.io, electron, html5, js, css*
 
 ### MP Events
 MP Events: [Source](https://github.com/austinginn/mp-events)
