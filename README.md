@@ -25,10 +25,10 @@ A web app for creating pleasing blur gradients from an image. Uses the Wolt Blur
 <br>
 *Vue 3*
 
-### JS BlurHash Decode Benchmark Tool
-A web app for benchmarking speed difference between the Wolt BlurHash Decode Alogrithm and the Fast BlurHash Decode Algorithm. View [here]()
+### BlurHash Decode Benchmark
+A web app for benchmarking the performance for BlurHash Decode Algorithms. View [here](https://blur-ad979.web.app/benchmark)
+<br>
 *Vue 3*
-
 
 
 
