@@ -15,11 +15,6 @@ Converts MIDI messages to ETC Echotouch MK2 UDP control messages. View [here](ht
 <br>
 *nodejs, pm2*
 
-### MIDI to ETC UDP Relay
-Converts MIDI messages to ETC Echotouch MK2 UDP control messages. View [here](https://github.com/austinginn/midi-etc-relay)
-<br>
-*nodejs, pm2*
-
 ### Blurify
 A web app for creating pleasing blur gradients from an image. Uses the Wolt BlurHash Alogrithm. View [here](https://blur-ad979.web.app/)
 <br>
