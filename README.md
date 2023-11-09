@@ -31,6 +31,11 @@ A web app for benchmarking the performance for BlurHash Decode Algorithms. View 
 <br>
 *Vue 3*
 
+### Automated Announcement Loop Switching for Church Online
+A HTML/JS snippet that automatically switches between two announcement loops at a given time. Created to work with Church Online Platforms offline video embed. View [here](https://gist.github.com/austinginn/c6b53165f25b108c9b4f9faf47aa0bab)
+<br>
+*HTML, JS*
+
 
 
 ### MP Events
