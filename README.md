@@ -22,12 +22,19 @@ Runs a power on and off schedule for TCL Roku TVs. Great for managing power sche
 
 
 ### Blurify
-A web app for creating pleasing blur gradients from an image. Uses the Wolt BlurHash Alogrithm. View [here](https://blur-ad979.web.app/)
+A web app for creating pleasing blur gradients from an image. Uses the Wolt BlurHash Alogrithm. View [here](https://blurify.web.app/)
 <br>
 *Vue 3*
 
 ### BlurHash Decode Benchmark
-A web app for benchmarking the performance for BlurHash Decode Algorithms. View [here](https://blur-ad979.web.app/benchmark)
+A web app for benchmarking the performance for BlurHash Decode Algorithms. View [here](https://blurify.web.app/benchmark)
+<br>
+*Vue 3*
+
+### BlurHash Transition Demo
+A web app demoing the transition from average color -> blurhash -> image. View [here](https://blur-demo.web.app/)
+<br>
+[Source](https://github.com/austinginn/blurhash-demo)
 <br>
 *Vue 3*
 
