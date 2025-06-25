@@ -39,15 +39,6 @@ A HTML/JS snippet that automatically switches between two announcement loops at 
 <br>
 *HTML, JS*
 
-
-
-### MP Events
-MP Events: [Source](https://github.com/austinginn/mp-events)
-<br>
-Running Example: [events.afumc.org](https://events.afumc.org)
-<br>
-*docker, node.js, express.js, html5, js, css*
-
 ## Stack
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
