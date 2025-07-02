@@ -6,6 +6,9 @@ Email: [austinleeginn@gmail.com](mailto:austinleeginn@gmail.com)
 
 ## Current Projects
 
+### WING to LiveTrax
+A cross platform way to quickly sync source names from your WING to LiveTrax via your selected output group. Record and stop directly from the app as well schedule recordings so you never forget to hit record before a show again. View [here](https://github.com/austinginn/WING-to-LiveTrax)
+
 ### MIDI to ETC UDP Relay
 Converts MIDI messages to ETC Echotouch MK2 UDP control messages. View [here](https://github.com/austinginn/midi-etc-relay)
 <br>
