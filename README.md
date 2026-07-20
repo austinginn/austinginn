@@ -1,4 +1,4 @@
-# Hey, I’m Austin 👋
+# Yo 👋
 
 I’m the founder of **Ginnsoft LLC** and a developer working where production, broadcast, AV, and practical software overlap. I enjoy building focused tools that take friction out of real workflows—especially the kind that happen on show days, in control rooms, and behind the scenes.
 
