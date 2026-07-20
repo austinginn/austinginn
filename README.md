@@ -20,7 +20,7 @@ A lightweight macOS companion that follows a Behringer WING selection and focuse
 
 ### [WING to LiveTrax](https://github.com/austinginn/WING-to-LiveTrax)
 
-A cross-platform utility for syncing WING source names into LiveTrax, starting and stopping recording, and scheduling sessions so the record button does not get forgotten before a show.
+A cross-platform utility for syncing WING source names into LiveTrax, starting and stopping recording, and scheduling sessions so the record button does not get forgotten before a show. A major rework is planned for later this summer.
 
 *Electron · Vue · Node.js · OSC*
 
