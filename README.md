@@ -1,4 +1,4 @@
-# [Yo 👋](https://nearfield.ch)
+# Yo
 
 I’m the founder of **Ginnsoft LLC** and a developer working where production, broadcast, AV, and practical software overlap. I enjoy building focused tools that take friction out of real workflows—especially the kind that happen on show days, in control rooms, and behind the scenes.
 
@@ -6,7 +6,7 @@ Most of my work is native desktop software, networked control utilities, and sma
 
 ## What I’m working on
 
-### NearField
+### [NearField](https://nearfield.ch)
 
 A native macOS broadcast monitoring workspace for local and remote sessions. NearField brings together configuration, saved profiles, audio metering, transport telemetry, video preview, and operator controls in one purpose-built app. Currently in development.
 
