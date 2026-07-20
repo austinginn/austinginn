@@ -1,79 +1,50 @@
+# Hey, I’m Austin 👋
 
-<h1 align="center">Hello!</h1>
-My name is Austin. I specialize in creating custom AVL integration software and utilities. Reach out if you're interested in collaborating. 
+I’m the founder of **Ginnsoft LLC** and a developer working where production, broadcast, AV, and practical software overlap. I enjoy building focused tools that take friction out of real workflows—especially the kind that happen on show days, in control rooms, and behind the scenes.
 
-Email: [austinleeginn@gmail.com](mailto:austinleeginn@gmail.com)
+Most of my work is native desktop software, networked control utilities, and small web tools for technical teams. If you have an interesting production or integration problem, I’m always happy to talk.
 
-## Current Projects
+## What I’m working on
 
-### WING to LiveTrax
-A cross platform way to quickly sync source names from your WING to LiveTrax via your selected output group. Record and stop directly from the app as well schedule recordings so you never forget to hit record before a show again. View [here](https://github.com/austinginn/WING-to-LiveTrax)
+### NearField
 
-### MIDI to ETC UDP Relay
-Converts MIDI messages to ETC Echotouch MK2 UDP control messages. View [here](https://github.com/austinginn/midi-etc-relay)
-<br>
-*nodejs, pm2*
+A native macOS broadcast monitoring workspace for local and remote sessions. NearField brings together configuration, saved profiles, audio metering, transport telemetry, video preview, and operator controls in one purpose-built app. Currently in development.
 
-### TCL Roku TV Scheduler
-Runs a power on and off schedule for TCL Roku TVs. Great for managing power schedules of many TVs and supports groups.  View [here](https://github.com/austinginn/tcl-roku-scheduler)
-<br>
-*nodejs, express.js, pm2*
+*Tauri · Rust · Vue · Core Audio · SRT/WebRTC · Firebase*
 
+### [WING Link](https://wing-link.web.app/)
 
-### Blurify
-A web app for creating pleasing blur gradients from an image. Uses the Wolt BlurHash Alogrithm. View [here](https://blurify.web.app/)
-<br>
-*Vue 3*
+A lightweight macOS companion that follows a Behringer WING selection and focuses the mapped Waves SuperRack rack. It includes native WING connectivity, SuperRack rack discovery, profile management, and MIDI fallback workflows.
 
-### BlurHash Decode Benchmark
-A web app for benchmarking the performance for BlurHash Decode Algorithms. View [here](https://blurify.web.app/benchmark)
-<br>
-*Vue 3*
+*Tauri · Rust · Vue · OSC/TCP · CoreMIDI · Firebase*
 
-### BlurHash Transition Demo
-A web app demoing the transition from average color -> blurhash -> image. View [here](https://blur-demo.web.app/)
-<br>
-[Source](https://github.com/austinginn/blurhash-demo)
-<br>
-*Vue 3*
+### [WING to LiveTrax](https://github.com/austinginn/WING-to-LiveTrax)
 
-### Automated Announcement Loop Switching for Church Online
-A HTML/JS snippet that automatically switches between two announcement loops at a given time. Created to work with Church Online Platforms offline video embed. View [here](https://gist.github.com/austinginn/c6b53165f25b108c9b4f9faf47aa0bab)
-<br>
-*HTML, JS*
+A cross-platform utility for syncing WING source names into LiveTrax, starting and stopping recording, and scheduling sessions so the record button does not get forgotten before a show.
 
-## Stack
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+*Electron · Vue · Node.js · OSC*
 
+## Other useful projects
 
+- [MIDI to ETC UDP Relay](https://github.com/austinginn/midi-etc-relay) — converts MIDI messages into ETC Eos / ECHOTouch MK2 UDP control messages.
+- [TCL Roku TV Scheduler](https://github.com/austinginn/tcl-roku-scheduler) — grouped power scheduling for installed Roku displays.
+- [Blurify](https://blurify.web.app/) — a small web app for creating image-based BlurHash gradients.
 
+## Current stack
 
+<p>
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-1a1a1a?style=for-the-badge&logo=rust&logoColor=white" />
+  <img alt="Tauri" src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=1a1a1a" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Vue" src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=1a1a1a" />
+  <img alt="macOS" src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
+I also work regularly with OSC, MIDI, TCP/UDP networking, REST APIs, FFmpeg, NDI, SRT, WebRTC, and the real-world details of production systems.
 
+## Say hello
 
-
-
-
-
-
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-
-
-
-
-
+[Email](mailto:austinleeginn@gmail.com) · [GitHub](https://github.com/austinginn) · [Ko-fi](https://ko-fi.com/M4M81985YD)
